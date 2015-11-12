@@ -2,3 +2,4 @@
 ------
 
 	1. HMM Model
+	2. Markov Random Field
